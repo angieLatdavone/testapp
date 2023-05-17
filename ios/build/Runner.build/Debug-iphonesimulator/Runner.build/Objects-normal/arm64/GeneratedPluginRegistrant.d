@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/angie/Desktop/Mobile-Application/testapp/ios/build/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
